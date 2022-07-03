@@ -5,6 +5,6 @@
 
 # Modules Needed 
 
-Matplotlib
+- Matplotlib
 
-Pandas
+- Pandas
